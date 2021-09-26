@@ -1,0 +1,8 @@
+# serverless.yml
+daping:
+  component: '@serverless/tencent-website'
+  inputs:
+    code:
+      src: ./daping1
+      region: ap-shanghai
+      bucketName: daping
